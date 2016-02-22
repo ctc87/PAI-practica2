@@ -1,4 +1,3 @@
-
 <span style="float:right; width:22%">
   <img src="./img/java.png">
 </span>
