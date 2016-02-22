@@ -1,7 +1,4 @@
-<style>
-  #f { float:right;}
-</style>
-<img src="./img/java.png" width="22%" id="f">
+<img src="./img/java.png" width="22%" style="float:right" float="right">
 
 # Práctica 2 Introducción a la programación en Java
 
