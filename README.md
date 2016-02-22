@@ -1,6 +1,4 @@
-<span style="float:right; width:22%">
-  <img src="./img/java.png">
-</span>
+  <img src="./img/java.png" align="left" width="22%">
 
 # Práctica 2 Introducción a la programación en Java
 
